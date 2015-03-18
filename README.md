@@ -1,1 +1,5 @@
-https://github.com/hatapon/hatapon-readable-code.git
+自己紹介
+なまえ：畠山　遼
+チーム：光コラボ（もう少ししたらイントラチーム）
+趣味：ギター、カメラ
+javaのスキル：1

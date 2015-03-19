@@ -2,4 +2,4 @@
 １.pull
 ２.classファイルをコンソールから実行
 　 ・実行ディレクトリ:hatapon-readable-code/java/example1
-　 ・実行コマンド:java Recipe
+　 ・実行コマンド:java ManageRecipe
